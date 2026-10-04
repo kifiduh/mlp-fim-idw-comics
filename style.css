@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'equestria';
-    src: url('/Equestria.otf');
+    src: url("/fonts/Equestria.ttf"),
+    url("/fonts/Equestria.otf");
     font-weight: normal;
     font-style: normal;
 }
